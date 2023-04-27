@@ -7,6 +7,7 @@
     <James> --<Coordinator> -- <@jameskk>
     <John>--<Associate>--<@john>
     <Rahul kumar> --<Assistant> --<@rahul_K>
+    <John> ---<Associate> --<@john.m>
 
 # THANKS
 
