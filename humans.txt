@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <shailja ranjan> -- <Git learner> -- <shailjaranjan>
 
 # THANKS
 
@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+   
