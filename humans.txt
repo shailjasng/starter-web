@@ -4,7 +4,8 @@
 # TEAM
 
     <shailja ranjan> -- <Git learner> -- <shailjaranjan>
-    <James> --<Coordinator> -- <@jameskk>
+    <James> --<Coordinator> -- <@jameskk>    <Rahul kumar> --<Assistant> --<@rahul_K>
+    <John> ---<Associate> --<@john.m>
 
 # THANKS
 
