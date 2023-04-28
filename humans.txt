@@ -11,7 +11,7 @@
 
 # THANKS
 
-    <name>
+    <Thanks for learning the git tutorials>
 
 # TECHNOLOGY COLOPHON
 
