@@ -9,6 +9,7 @@
     <Rahul kumar> --<Assistant> --<@rahul_K>
     <John> ---<Associate> --<@john.m>
     <Stash>---<Example>--- <@stash>
+    <Squash>--<Example>---<@squash>
 
 # THANKS
 

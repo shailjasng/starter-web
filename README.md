@@ -12,3 +12,6 @@ This is a documentation for the starter-web project.Adding another line for reba
 
 Adding one line for stashing.
 
+
+# Learning how to squash multiple commits to one
+
